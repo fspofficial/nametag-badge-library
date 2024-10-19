@@ -1,2 +1,2 @@
-# offline-nametag-icon
-Adds an Client-side Icon to your Nametag
+# nametag-badge-library
+An easy way for mod creators to add nametag badges.
